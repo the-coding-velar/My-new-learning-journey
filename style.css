@@ -1,5 +1,10 @@
 
-html, #t1{
+html,body{
+height:800px;
+margin:100px;
+    background-color:rgb(100,50,75);
+}
+ #t1{
 color: rgb(200,150,255);
 font-family: "jokerman";
 text-transform: uppercase;
@@ -50,9 +55,4 @@ strong{
     font-weight: 800;
     font-style:italic;
     color:rgb(99, 26, 235);
-}
-body{
-height:800px;
-margin:100px;
-    background-color:rgb(100,50,75);
 }
