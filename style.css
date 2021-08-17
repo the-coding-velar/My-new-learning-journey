@@ -1,0 +1,56 @@
+
+#t1{
+color: rgb(200,150,255);
+font-family: "jokerman";
+text-transform: uppercase;
+font-weight: bold;
+background-color :rgb(227, 118, 41);
+
+}
+#t2{
+color: rgb(200,150,255);
+font-family: "jokerman";
+text-transform: uppercase;
+text-decoration:none;
+background-color: rgb(72, 209, 48);
+text-align: justify;
+line-height: 50px;
+font-size: 50px;
+font-weight: bold;
+}
+a{
+text-decoration:none;
+}
+#t12{
+font-size: 1.3em;
+font-family:ink free;
+text-align:center;
+font-style: none;
+line-height: 1.5em;
+color:rgb(52, 237, 188);
+font-weight: 800;
+
+}
+#t22{
+font-size: 1.3em;
+font-family: "lucida handwriting",sans-serif;
+text-align:center;
+font-style: none;
+line-height: 1.5em;
+color:rgb(235, 52, 168);
+font-weight: 600;
+
+}
+strong{
+    font-weight:60;
+}
+.ending{
+    font-size:20px;
+    font-weight: 800;
+    font-style:italic;
+    color:rgb(99, 26, 235);
+}
+body{
+height:800px;
+margin:100px;
+}
