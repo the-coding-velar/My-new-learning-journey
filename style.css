@@ -60,4 +60,7 @@ strong{
 }
 div{
     background-color: rgb(230,230,230);
+    height:50px;
+    width:70px;
+    overflow:auto;
 }
